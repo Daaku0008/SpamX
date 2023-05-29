@@ -9,8 +9,8 @@
         "StarXSpam",
         "SpamBots"
       ],   
-  "repository": "https://github.com/itz-star-boi/SpamX",
-  "website": "https://github.com/itz-star-boi",
+  "repository": "https://github.com/Daaku0008/SpamX",
+  "website": "https://github.com/Daaku0008",
   "success_url": "https://t.me/its_star_boi",
   "env": {
              "API_ID": {
